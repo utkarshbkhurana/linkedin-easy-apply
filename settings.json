@@ -1,0 +1,16 @@
+{
+  "linkedin": {
+    "user": "",
+    "pass": ""
+  },
+  "config": {
+    "jobs_to_apply": 10,
+    "min_company_followers": 150000,
+    "keywords": "frontend"
+  },
+  "filters": {
+    "location": "",
+    "easy_apply": true,
+    "job_type": ""
+  }
+}
